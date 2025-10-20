@@ -1,25 +1,84 @@
-🦋 Hi there, I’m Lasya Mandadapu!
-💻 Aspiring Software Developer | Full-Stack Developer | Tech Innovator
+<h1 align="center">👋 Hey there, I'm <span style="color:#7F00FF;">Lasya Mandadapu</span></h1>
 
-I’m a passionate Computer Science Engineering student from Vignan’s Nirula Institute of Technology and Science for Women,
-with a vision to build impactful tech solutions that make everyday life smarter, faster, and more connected.
+<p align="center">
+  🚀 <b>Aspiring Software Developer</b> | 💻 Full Stack Developer | 🌱 Tech Enthusiast
+</p>
 
-🚀 About Me
+---
 
-🎓 Currently pursuing B.Tech in Computer Science (2023–2027) — CGPA: 9.21/10
+<div align="center">
 
-💡 I love transforming ideas into real-world tech solutions — from IoT-based automation to full-stack web apps.
+### 💫 About Me
+</div>
 
-🧠 Strong foundation in Data Structures, Algorithms, and System Design.
+<p align="center">
+🎓 B.Tech CSE Student at <b>Vignan’s Nirula Institute of Technology and Science for Women</b><br>
+💡 Passionate about building impactful web and AI-driven solutions<br>
+🧠 Strong foundation in <b>Data Structures</b>, <b>Algorithms</b>, and <b>System Design</b><br>
+🌍 Always exploring new technologies and real-world applications
+</p>
 
-🌍 Always exploring the intersection of AI + Web Development + Innovation.
+---
 
-⚡ Quick learner, team leader, and problem-solver.
+<div align="center">
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
+</div>
 
-Languages: C, Python, Java, JavaScript, HTML, CSS
-Frameworks: Django, Bootstrap
-Database: MySQL
-Tools: Git, GitHub, VS Code
-Hardware Integration: ESP32, Arduino, RFID
+<div align="center">
+
+💻 **Languages** <br>
+C • Python • Java • JavaScript • HTML • CSS  
+
+🧩 **Frameworks** <br>
+Django • Bootstrap  
+
+🗄️ **Database** <br>
+MySQL  
+
+⚙️ **Tools** <br>
+Git • GitHub • VS Code  
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏅 Achievements
+</div>
+
+<p align="center">
+🥇 Winner — College Project Expo (2nd Year)<br>
+🧠 Silver Medalist — NPTEL (C Programming, IIT Certified)<br>
+💻 Solved 250+ DSA Problems across platforms (HackerRank, CodeForces, CodeChef)<br>
+🤝 Team Lead — E-Cell (in collaboration with IIT Bombay)<br>
+🎯 Technical Club Coordinator — Organized coding events & tech sessions
+</p>
+
+---
+
+<div align="center">
+
+### 🌐 Connect With Me
+</div>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/lasya-mandadapu-1bb655309/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/123Lasya">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:m482719@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
+<p align="center">
+✨ “Code. Create. Contribute.” ✨  
+</p>
