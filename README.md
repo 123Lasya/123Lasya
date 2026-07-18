@@ -1,84 +1,51 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#7F00FF;">Lasya Mandadapu</span></h1>
+<h1 align="center">👋 Hey, I'm Lasya Mandadapu</h1>
 
 <p align="center">
-  🚀 <b>Aspiring Software Developer</b> | 💻 Full Stack Developer | 🌱 Tech Enthusiast
+  🚀 <b>Full-Stack Developer | SIH 2025 Grand Finalist | AI & Web Enthusiast</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lasya-mandadapu-1bb655309/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> &nbsp;
+  <a href="mailto:m482719@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
-
-<div align="center">
 
 ### 💫 About Me
-</div>
+I am a final-year Computer Science student passionate about building scalable full-stack applications and integrating AI to solve real-world problems. With a background in competitive hackathons and research, I thrive on turning complex logic into user-friendly digital experiences.
 
+---
+
+### 🚀 Featured Projects
+*These are my core projects that demonstrate my technical ownership and problem-solving skills:*
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Krushisetu](https://github.com/123Lasya/SIH_2025_WEBSITE)** | SIH 2025 Finalist platform for agricultural hedging. | Python, Django, ML, Blockchain |
+| **[Auto Mart](https://github.com/123Lasya/Auto_Mart)** | IoT-based retail system reducing checkout time by 90%. | Django, ESP32, RFID, MySQL |
+| **[TechTales](https://github.com/123Lasya/22_LASYA)** | AI-driven platform transforming code into stories. | Python, Gemini API, MoviePy |
+
+---
+
+### 🛠️ Technical Toolkit
 <p align="center">
-🎓 B.Tech CSE Student at <b>Vignan’s Nirula Institute of Technology and Science for Women</b><br>
-💡 Passionate about building impactful web and AI-driven solutions<br>
-🧠 Strong foundation in <b>Data Structures</b>, <b>Algorithms</b>, and <b>System Design</b><br>
-🌍 Always exploring new technologies and real-world applications
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,mysql,git,github,vscode" />
 </p>
 
 ---
 
-<div align="center">
-
-### 🛠️ Tech Stack
-</div>
-
-<div align="center">
-
-💻 **Languages** <br>
-C • Python • Java • JavaScript • HTML • CSS  
-
-🧩 **Frameworks** <br>
-Django • Bootstrap  
-
-🗄️ **Database** <br>
-MySQL  
-
-⚙️ **Tools** <br>
-Git • GitHub • VS Code  
-
-</div>
-
----
-
-<div align="center">
-
-### 🏅 Achievements
-</div>
-
+### 📈 GitHub Stats
 <p align="center">
-🥇 Winner — College Project Expo (2nd Year)<br>
-🧠 Silver Medalist — NPTEL (C Programming, IIT Certified)<br>
-💻 Solved 250+ DSA Problems across platforms (HackerRank, CodeForces, CodeChef)<br>
-🤝 Team Lead — E-Cell (in collaboration with IIT Bombay)<br>
-🎯 Technical Club Coordinator — Organized coding events & tech sessions
-</p>
-
----
-
-<div align="center">
-
-### 🌐 Connect With Me
-</div>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/lasya-mandadapu-1bb655309/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/123Lasya">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:m482719@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=123Lasya&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123Lasya&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-✨ “Code. Create. Contribute.” ✨  
+  ✨ <i>Always building. Always learning.</i> ✨
 </p>
