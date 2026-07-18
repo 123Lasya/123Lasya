@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hey, I'm Lasya Mandadapu</h1>
+<h1 align="center">👋 Hi, I'm Lasya Mandadapu</h1>
 
 <p align="center">
-  🚀 <b>Full-Stack Developer | SIH 2025 Grand Finalist | AI & Web Enthusiast</b>
+  🚀 <b>Full-Stack Developer | SIH 2025 Grand Finalist | Building Scalable, AI-Driven Solutions</b>
 </p>
 
 <p align="center">
@@ -16,12 +16,12 @@
 ---
 
 ### 💫 About Me
-I am a final-year Computer Science student passionate about building scalable full-stack applications and integrating AI to solve real-world problems. With a background in competitive hackathons and research, I thrive on turning complex logic into user-friendly digital experiences.
+I am a final-year Computer Science student and a self-driven developer who thrives at the intersection of **AI and Web Development**. My journey is defined by tackling real-world problems—from optimizing retail efficiency to creating agricultural risk management tools. I believe that good code doesn't just work; it creates value.
 
 ---
 
 ### 🚀 Featured Projects
-*These are my core projects that demonstrate my technical ownership and problem-solving skills:*
+*These are my core projects that demonstrate my technical ownership and problem-solving impact.*
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -31,14 +31,14 @@ I am a final-year Computer Science student passionate about building scalable fu
 
 ---
 
-### 🛠️ Technical Toolkit
+### 🛠️ My Technical Toolkit
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,react,js,mysql,git,github,vscode" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Impact
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=123Lasya&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123Lasya&layout=compact&theme=radical&hide_border=true" />
