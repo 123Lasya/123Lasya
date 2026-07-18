@@ -38,14 +38,6 @@ I am a final-year Computer Science student and a self-driven developer who thriv
 
 ---
 
-### 📈 GitHub Impact
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=123Lasya&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123Lasya&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   ✨ <i>Always building. Always learning.</i> ✨
 </p>
